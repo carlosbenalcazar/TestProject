@@ -9,3 +9,6 @@ Author: Carlos Benalcazar <carlos.benalcazar@interlancompu.com>
 Date:   Mon Jul 3 14:38:16 2017 -0500
 
     Iniciamos el primer commit
+
+	
+	cambios por doquier
