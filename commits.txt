@@ -12,3 +12,9 @@ Date:   Mon Jul 3 14:38:16 2017 -0500
 
 	
 	cambios por doquier
+	
+	texto=1,2
+	texto=1,2texto=1,2texto=1,2
+	texto=1,2
+	texto=1,2
+	texto=1,2
